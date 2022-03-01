@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mridul
 
-- 🌱 I’m currently learning Java,Python,C and C++
-- 🏫 I am currently pursuing B.tech(2st Year) form The NorthCap University 
+- 🌱 I’m currently using Python, Java, R, Tableau, Power BI, C++ and C   (Most Used-->Least Used)
+- 🏫 Sophomore in The NorthCap University.  
 - 💞️ If you have any problem or oppurtunity, you are most welcome to send me a email on the following email id
 - 📫 gupta22mridul@outlook.com
 
