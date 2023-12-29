@@ -1,4 +1,4 @@
-# 👋 おはよう、私の名前和 Mridul Gupta です。
+# 👋 おはよう、Mridul Gupta です。
 
 - 🌱 I’m currently using Python, Java, R, Tableau, Power BI, C++ and C   (Most Used-->Least Used)
 - 🏫 Sophomore in The NorthCap University.  
