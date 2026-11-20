@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Mridul Gupta
+# こんにちは、Mridul Gupta です。
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+Volkswagen;Building+scalable+products;Turning+numbers+into+narratives;Powered+by+coffee" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+Volkswagen;%E3%83%95%E3%82%A9%E3%83%AB%E3%82%AF%E3%82%B9%E3%83%AF%E3%83%BC%E3%82%B2%E3%83%B3%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88;Building+scalable+products;%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%A9%E3%83%96%E3%83%AB%E3%81%AA%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%82%92%E9%96%8B%E7%99%BA;Turning+numbers+into+narratives;%E6%95%B0%E5%AD%97%E3%82%92%E7%89%A9%E8%AA%9E%E3%81%AB%E5%A4%89%E3%81%88%E3%82%8B;Powered+by+coffee;%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A7%E5%8B%95%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99" alt="Typing intro" />
 
 <a href="https://www.linkedin.com/in/mridul-gupta-2209/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/MridulG2209"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
